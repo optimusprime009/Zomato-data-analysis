@@ -5,7 +5,7 @@ The commercial capital of Madhya Pradesh, Indore has another name as the “city
 
 Indore city prides itself on its food. People from all across the country have settled up here, particularly from Rajasthan, Maharashtra and UP. The number of restaurants in Indore are increasing day by day. Currently around 3900 restaurants in Indore are listed on Zomato. With each day new restaurants opening the industry hasn't been saturated yet and the demand is increasing day by day !
 
-Despite increasing demand, it however has become difficult for new restaurants to compete withestablished restaurants. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location.
+Despite increasing demand, it however has become difficult for new restaurants to compete with established restaurants. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location.
 
 The key issues that continue to pose a challenge to them include high real estate costs, rising food costs, shortage of quality manpower, fragmented supply chain and over-licensing. With data analytics, the project also will help people in choosing the restaurant based on several factors.
 
