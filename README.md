@@ -1,7 +1,6 @@
 # Zomato data analysis
  Data analysis of Zomato dataset in the city of Gorakhpur.
 
-The commercial capital of Uttar Pradesh, Gorakhpur has another name the “city of foodies”. This name has been given to Gorakhpur because of its Flavours, its variety of chats, and  the wide range of street foods.
 
 Gorakhpur city prides itself on its food. People from all across the country have settled up here, particularly from Rajasthan, Maharashtra, and UP. The number of restaurants in Gorakhpur is increasing day by day. Currently, around 3900 restaurants in Gorakhpur are listed on Zomato. With each day new restaurants opening the industry hasn't been saturated yet and the demand is increasing day by day!
 
